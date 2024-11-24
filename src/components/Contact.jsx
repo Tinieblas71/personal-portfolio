@@ -2,6 +2,8 @@ import React from "react";
 import '../styles/portfolio.css';
 import { useState } from "react";
 
+/* final compinent*/
+
 const Contact = () => { 
 
     const [formValues, setFormValues] = useState({
