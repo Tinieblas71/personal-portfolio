@@ -100,7 +100,7 @@ const Portafolio = () => {
                         <div className="timeline-content">
                             <h3><i className='bx bxs-award bx-flip-horizontal' ></i>  Responsive Web Desing Certification</h3>
                             <p>Gained expertise in core web technologies, particularly HTML5 and CSS, to create responsive and visually appealing static websites adaptable to all devices.</p>
-                            <a href="https://www.freecodecamp.org/certification/Santiago_Moreno_Estrada/responsive-web-design" className='btn' target="_blank" > View Certification <i class='bx bx-right-top-arrow-circle' ></i> </a>
+                            <a href="https://www.freecodecamp.org/certification/Santiago_Moreno_Estrada/responsive-web-design" className='btn' target="_blank" > View Certification <i className='bx bx-right-top-arrow-circle' ></i> </a>
                         </div>
                     </div>
 
@@ -111,7 +111,7 @@ const Portafolio = () => {
                         <div className="timeline-content">
                             <h3> <i className='bx bxs-award bx-flip-horizontal' ></i>  JavaScript Algorithms and Data Structures Certification</h3>
                             <p>Enhanced proficiency in JavaScript, covering advanced topics like algorithms, data structures, DOM manipulation, functional programming, asynchronous programming, and recursion.</p>
-                            <a href="https://www.freecodecamp.org/certification/Santiago_Moreno_Estrada/javascript-algorithms-and-data-structures" target="_blank" className='btn'> View Certification <i class='bx bx-right-top-arrow-circle' ></i> </a>
+                            <a href="https://www.freecodecamp.org/certification/Santiago_Moreno_Estrada/javascript-algorithms-and-data-structures" target="_blank" className='btn'> View Certification <i className='bx bx-right-top-arrow-circle' ></i> </a>
                         </div>
                     </div>
 
@@ -120,9 +120,9 @@ const Portafolio = () => {
                             <div className="timeline-date">July 18, 2024
                             </div>
                         <div className="timeline-content">
-                            <h3><i class='bx bxs-graduation bx-flip-horizontal' ></i> Professional Technical High School</h3>
+                            <h3><i className='bx bxs-graduation bx-flip-horizontal' ></i> Professional Technical High School</h3>
                             <p>Strengthened knowledge in computer science, focusing on systems programming, databases, and languages like Java and C#. Delivered database-driven solutions.</p>
-                            <a href={ Diploma } target="_blank" download className='btn'> Download Diploma <i class='bx bx-right-top-arrow-circle' ></i> </a>
+                            <a href={ Diploma } target="_blank" download className='btn'> Download Diploma <i className='bx bx-right-top-arrow-circle' ></i> </a>
                         </div>
                     </div>
 
@@ -133,7 +133,7 @@ const Portafolio = () => {
                         <div className="timeline-content">
                             <h3><i className='bx bxs-award bx-flip-horizontal' ></i> IBM AI Engineering Certifications</h3>
                             <p>Acquired skills in Python, machine learning, neural networks, deep learning, and the Keras library, applying these to solve complex problems with modern technologies.</p>
-                            <a href="https://coursera.org/share/1204d717a0ef030f67f0d6e626cd3c12" target="_blank" className='btn'> View Certification <i class='bx bx-right-top-arrow-circle' ></i> </a>
+                            <a href="https://coursera.org/share/1204d717a0ef030f67f0d6e626cd3c12" target="_blank" className='btn'> View Certification <i className='bx bx-right-top-arrow-circle' ></i> </a>
                         </div>
                     </div>
 
@@ -144,7 +144,7 @@ const Portafolio = () => {
                         <div className="timeline-content">
                             <h3><i className='bx bxs-award bx-flip-horizontal' ></i>  IBM Full Stack Software Developer Certification</h3>
                             <p>Developed a professional approach to software design, planning, development, and deployment, gaining experience with cloud computing, scientific application development, and modern software techniques.</p>
-                            <a href="https://coursera.org/share/ba2fb23db2542517f72ebef4a6efb698" target="_blank" className='btn'> View Certification <i class='bx bx-right-top-arrow-circle' ></i> </a>
+                            <a href="https://coursera.org/share/ba2fb23db2542517f72ebef4a6efb698" target="_blank" className='btn'> View Certification <i className='bx bx-right-top-arrow-circle' ></i> </a>
                         </div>
                     </div>
 
