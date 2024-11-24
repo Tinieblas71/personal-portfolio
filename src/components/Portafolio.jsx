@@ -3,7 +3,7 @@ import { useTypewriter, Cursor } from 'react-simple-typewriter';
 import profile from '../assets/img.jpeg'; 
 import testimonial_1 from '../assets/cstm.jpg';
 import Cv from '../assets/Cvx.pdf';
-import Contact from './Contact';
+import Contact from './contact';
 import Diploma from '../assets/cartaPasante.pdf';
 
 const Portafolio = () => {
@@ -251,16 +251,9 @@ const Portafolio = () => {
                         &copy; <span className=""> Santi Moreno </span> | All Rights Reserved
                     </p>
                 </ul>
-
             </footer>
-
-
-
         </>
-    )
-
-
-
+    );
 }
 
 export default Portafolio;
