@@ -2,7 +2,7 @@ import '../styles/portfolio.css';
 import { useTypewriter, Cursor } from 'react-simple-typewriter';
 import profile from '../assets/img.jpeg'; 
 import testimonial_1 from '../assets/cstm.jpg';
-import Cv from '../assets/Cvx.pdf';
+import Cv from '../assets/CVx.pdf';
 import Contact from './contact';
 import Diploma from '../assets/cartaPasante.pdf';
 
